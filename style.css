@@ -92,9 +92,9 @@ height: 10vh;
 }
 
 .container2 {
-    background-color: rgb(65, 65, 211);
+    background-color:dimgray;
     font-size: large;
-    font-style: italic;
+    font-style: oblique;
     align-items: center;
     justify-content: center;
     display: flex;
