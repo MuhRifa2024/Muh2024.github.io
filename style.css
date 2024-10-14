@@ -92,8 +92,7 @@ height: 10vh;
 }
 
 .container2 {
-    background-color:dimgray;
-    width: fit-content;
+    background-color:dimgray; width: fit-content;
     height: fit-content;
     font-size: large;
     font-style: oblique;
