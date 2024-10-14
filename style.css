@@ -90,14 +90,3 @@ height: 10vh;
     color: rgb(29, 29, 223);
     text-decoration: wavy;
 }
-
-.container2 {
-    background-color:dimgray;
-    width: fit-content;
-    height: fit-content;
-    font-size: large;
-    font-style: oblique;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-}
