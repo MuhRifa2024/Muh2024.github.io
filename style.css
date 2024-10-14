@@ -93,10 +93,12 @@ height: 10vh;
 
 .container2 {
     background-color: blueviolet;
+    width: 35%;
+    height: 15vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    text-decoration: double;
+    text-decoration: solid;
     font-size: 100px;
     font-style: oblique;
 }
